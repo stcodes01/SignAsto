@@ -1,3 +1,9 @@
+Run the test file on PyCharm and install tensorflow,cvzone libraries in your python.
+# HandDetection using ML/DL
+Developed a machine learning project utilizing landmark detection algorithms and Convolutional Neural Networks (CNN) for image processing and Natural Language Processing (NLP).
+Implemented with Python, leveraging OpenCV for computer vision tasks and cvzone for streamlined development.
+Created a sign language recognition system that detects hand signs and displays the corresponding alphabet using PyCharm 
+
 ![Screenshot (78)](https://github.com/stcodes01/SignAsto/assets/150412365/9831f5b9-4469-48db-a3c8-b1f538391f1d)
 ![Screenshot (77)](https://github.com/stcodes01/SignAsto/assets/150412365/1ef5fffd-bede-4e87-9e0a-68f395be261a)
 ![Screenshot (76)](https://github.com/stcodes01/SignAsto/assets/150412365/77e54ae0-ee29-4e3f-9873-e8b400f1045f)
@@ -18,8 +24,3 @@
 ![Screenshot (39)](https://github.com/stcodes01/SignAsto/assets/150412365/babfa93d-f039-400c-8cc1-9fc193e67d88)
 ![Screenshot (38)](https://github.com/stcodes01/SignAsto/assets/150412365/457e325a-a54e-4093-8298-5c3f0bdb5e7e)
 ![Screenshot (37)](https://github.com/stcodes01/SignAsto/assets/150412365/c5afa5f1-71dd-4002-bf22-3ed6bc5b8331)
-Run the test file on PyCharm and install tensorflow,cvzone libraries in your python.
-# HandDetection using ML/DL
-Developed a machine learning project utilizing landmark detection algorithms and Convolutional Neural Networks (CNN) for image processing and Natural Language Processing (NLP).
-Implemented with Python, leveraging OpenCV for computer vision tasks and cvzone for streamlined development.
-Created a sign language recognition system that detects hand signs and displays the corresponding alphabet using PyCharm 
